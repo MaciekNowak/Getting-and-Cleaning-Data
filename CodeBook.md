@@ -11,7 +11,7 @@ The data was collected from https://d396qusza40orc.cloudfront.net/getdata%2Fproj
 * *train/y_train.txt* - the train activity codes for rows in *train/X_train.txt*
 
 #Code Book
-The following columns are in the final data.frame returned by run_analysis.R:
+The following columns are in the final data.frame returned by run_analysis.R (names starting with t are related to time and these starting with f are related to frequency [Hz]):
 * subject - the subject identification
 * activity - the subject activity
 * tBodyAccmeanX
